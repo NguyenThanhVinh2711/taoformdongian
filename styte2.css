@@ -1,0 +1,24 @@
+table
+{
+    width: 500px;
+    background-color:#ffff99;
+    text-align: left;
+}
+th
+{
+    font-size:20px;
+    color:blue;
+    background-color:#99ff99;
+}
+.morelong
+{
+    width: 185px;
+}
+.morebig
+{
+    height: 50px;
+}
+.righttop
+{
+    margin-top: -15px;
+}
